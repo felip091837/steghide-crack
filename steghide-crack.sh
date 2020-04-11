@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#felipesi Was Here - 2017
+#felipesi - 2017
 
 if [ $# != 2 ]; then
 	echo "USAGE: $0 imagem.jpg wordlist.txt"
